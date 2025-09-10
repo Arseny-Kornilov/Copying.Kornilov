@@ -22,7 +22,7 @@
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ОТВЕТ:
-
+https://github.com/Arseny-Kornilov/Copying.Kornilov/blob/a474a1fdfb5855f5f8f08013cdaab1b1b24a930c/crontab
 <img width="918" height="321" alt="image" src="https://github.com/user-attachments/assets/153b4b4a-81d6-4463-b901-efe68c4a9c05" />
 
 
